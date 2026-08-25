@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/cropped-index.jpg",
-        "fileHash": "sha256-99a6a9234eb96877872d732d800e0f7c43dae1c2c91a07983933209ed9f9469e",
+        "fileHash": "sha256-9c5cc893f8e3f989b72eb3167f89f8c681254dfebfaedc05d69d5d5ce6596bad",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 111543,
+        "fileSize": 112366,
         "status": 3,
         "language": "id",
         "authors": [
@@ -14,7 +14,7 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "AnimeXin",
         "description": "AnimeXin - Streaming Download Donghua Subtitle Indonesia English",
         "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/AnimeXin.cs3",
