@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://assets.showcdnx.com/favicon.ico",
-        "fileHash": "sha256-de2626e9d2fad26a67e10a65e991e0ec3819c15c95108ce1925137d96e9a1a16",
+        "fileHash": "sha256-4413454dbefce71f54296598fd5540c053532ad446142eff2787a4e4438b6d1f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 252723,
+        "fileSize": 260557,
         "status": 3,
         "language": "id",
         "authors": [
@@ -35,7 +35,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "Layarkaca21",
         "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
         "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Layarkaca21.cs3",
