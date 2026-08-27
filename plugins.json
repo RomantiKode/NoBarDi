@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/cropped-index.jpg",
-        "fileHash": "sha256-eaa6d8d260ac46e4a79165b3d723c359a0bfb77830e46377d365571c0314e66d",
+        "fileHash": "sha256-e2d38a49c0cd6a8bbb6caed5396007f7fbc11ac09faf2a0b8645bcfed046711a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 122238,
+        "fileSize": 120759,
         "status": 3,
         "language": "id",
         "authors": [
@@ -14,7 +14,7 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 15,
+        "version": 17,
         "internalName": "AnimeXin",
         "description": "AnimeXin - Streaming Download Donghua Subtitle Indonesia English",
         "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/AnimeXin.cs3",
@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://assets.showcdnx.com/favicon.ico",
-        "fileHash": "sha256-06f11f91f570ee8d45ed47d0485427d75c0929c6798ccfa45e609e1ef7657650",
+        "fileHash": "sha256-1405ebb1669cd73c91e4db251107e01047c1222cf5b736a39b90e41aada7927e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 274182,
+        "fileSize": 272771,
         "status": 3,
         "language": "id",
         "authors": [
@@ -35,7 +35,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 20,
+        "version": 23,
         "internalName": "Layarkaca21",
         "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
         "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Layarkaca21.cs3",
