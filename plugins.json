@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/cropped-index.jpg",
-        "fileHash": "sha256-e2d38a49c0cd6a8bbb6caed5396007f7fbc11ac09faf2a0b8645bcfed046711a",
+        "fileHash": "sha256-f39801ddf08503141eab61472c2c7c9b9a8d7778359e81b50684d4e6eaeb1b9c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 120759,
+        "fileSize": 120897,
         "status": 3,
         "language": "id",
         "authors": [
@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://assets.showcdnx.com/favicon.ico",
-        "fileHash": "sha256-223f51034e34d7cce2f23eef06313770b29c8e674046657ab7a66a93f78f98b0",
+        "fileHash": "sha256-c6ffe5838485d2156f83b989d0c6c17a089042351ef041a82c7cb2815fa15d80",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 276819,
+        "fileSize": 276968,
         "status": 3,
         "language": "id",
         "authors": [
