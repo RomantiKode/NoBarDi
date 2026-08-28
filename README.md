@@ -99,7 +99,7 @@ Pengguna bertanggung jawab untuk mematuhi hukum dan peraturan yang berlaku di wi
 
 ---
 
-## 🛠️ Issues
+## 🛠️ Kendala
 
 Jika menemukan extension yang tidak bekerja, sertakan informasi sebanyak mungkin ketika menemukan kendala, misalnya:
 
