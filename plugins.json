@@ -43,10 +43,10 @@
     },
     {
         "iconUrl": "https://backapi.oploverz.ac/uploads/settings/website/favicons/3161ce4d-ce90-4d07-b019-57bf64a9594e.png",
-        "fileHash": "sha256-b82e7af1b2481e13a98250af85cd0e93b8c1f047d0bb20b8f86deba32297a397",
+        "fileHash": "sha256-dc5c5de671befe87cd0c2ef58949de13a2df64221082edde043b75ec707244ed",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 45656,
+        "fileSize": 48193,
         "status": 3,
         "language": "id",
         "authors": [
@@ -57,7 +57,7 @@
             "AnimeMovie",
             "OVA"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "Oploverz",
         "description": "Web Asli Oploverz hanya oploverz plus. Selalu tonton Anime Garapan Oploverz hanya di oploverz asli yang minim iklan.",
         "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Oploverz.cs3",
