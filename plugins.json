@@ -42,11 +42,11 @@
         "name": "Layarkaca21"
     },
     {
-        "fileHash": "sha256-000b28d693c4a908412d959974ebbea4ec9a3f8bcda2237b87beb71f2cb08b73",
+        "fileHash": "sha256-2595e9cf13adf1e6cd6a41028ca89095cf1ce3f3f9a35c6220d08a92a0431aa0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 17662,
-        "status": 1,
+        "fileSize": 33098,
+        "status": 3,
         "language": "id",
         "authors": [
             
@@ -54,9 +54,8 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "Oploverz",
-        "description": "Op Loverz",
         "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Oploverz.cs3",
         "name": "Oploverz"
     }
