@@ -42,20 +42,24 @@
         "name": "Layarkaca21"
     },
     {
-        "fileHash": "sha256-2595e9cf13adf1e6cd6a41028ca89095cf1ce3f3f9a35c6220d08a92a0431aa0",
+        "iconUrl": "https://backapi.oploverz.ac/uploads/settings/website/favicons/3161ce4d-ce90-4d07-b019-57bf64a9594e.png",
+        "fileHash": "sha256-f2ffc22dbbd43fafb268ccaac9554e25ecc52597d6269141b8bff52a327673aa",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 33098,
+        "fileSize": 33529,
         "status": 3,
         "language": "id",
         "authors": [
-            
+            "Agoose"
         ],
         "tvTypes": [
-            "TvSeries"
+            "Anime",
+            "AnimeMovie",
+            "OVA"
         ],
-        "version": 4,
+        "version": 1,
         "internalName": "Oploverz",
+        "description": "Web Asli Oploverz hanya oploverz plus. Selalu tonton Anime Garapan Oploverz hanya di oploverz asli yang minim iklan.",
         "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Oploverz.cs3",
         "name": "Oploverz"
     }
