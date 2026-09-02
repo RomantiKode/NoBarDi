@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "iconUrl": "https://anime-indo.lol/logos.png",
+        "fileHash": "sha256-ef482fb910d28ef6e8606528b5830673d90c88996c11db199ed2386f17ba4e95",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
+        "fileSize": 36786,
+        "status": 3,
+        "language": "id",
+        "authors": [
+            "Agoose"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "Animeindo",
+        "description": "Animeindo Adalah Tempat Nonton Streaming Anime Subtitle Indonesia Terlengkap Dan Terupdate Kualitas 240p 360p 480p 720p HD",
+        "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Animeindo.cs3",
+        "name": "Animeindo"
+    }
+]
