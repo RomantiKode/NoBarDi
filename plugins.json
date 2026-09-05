@@ -1,43 +1,43 @@
 [
-    {
-        "iconUrl": "https://anime-indo.lol/logos.png",
-        "fileHash": "sha256-4aa9f9568969b256a51ea7593ced13c54ccce1929b7fc52cc40136e6537f7770",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 36991,
-        "status": 3,
-        "language": "id",
-        "authors": [
-            "Agoose"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 1,
-        "internalName": "Animeindo",
-        "description": "Animeindo Adalah Tempat Nonton Streaming Anime Subtitle Indonesia Terlengkap Dan Terupdate Kualitas 240p 360p 480p 720p HD",
-        "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Animeindo.cs3",
-        "name": "Animeindo"
-    },
-    {
-        "fileHash": "sha256-9ea252b0f42664c9298d8f7e4b4f4a1ae08235566b4d75fc79836be2215d0e7a",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-        "fileSize": 97125,
-        "status": 3,
-        "language": "id",
-        "authors": [
-            "Agoose"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 9,
-        "internalName": "Kuronime",
-        "description": "Kuronime Situs Nonton Anime Subtitle Indonesia Secara Online Download Maupun Streaming Anime Sub Indo Terbaru Dan kualitas Lengkap Yang Update Setiap Hari Gratis.",
-        "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Kuronime.cs3",
-        "name": "Kuronime"
-    }
+  {
+    "iconUrl": "https://anime-indo.lol/logos.png",
+    "fileHash": "sha256-4aa9f9568969b256a51ea7593ced13c54ccce1929b7fc52cc40136e6537f7770",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
+    "fileSize": 36991,
+    "status": 3,
+    "language": "id",
+    "authors": [
+      "Agoose"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 1,
+    "internalName": "Animeindo",
+    "description": "Animeindo Adalah Tempat Nonton Streaming Anime Subtitle Indonesia Terlengkap Dan Terupdate Kualitas 240p 360p 480p 720p HD",
+    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Animeindo.cs3",
+    "name": "Animeindo"
+  },
+  {
+    "fileHash": "sha256-1c444663de5ff588f5a3d54a31e04ba7e276feb2f498ac03573d56c3b80061c0",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
+    "fileSize": 99744,
+    "status": 3,
+    "language": "id",
+    "authors": [
+      "Agoose"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 9,
+    "internalName": "Kuronime",
+    "description": "Kuronime Situs Nonton Anime Subtitle Indonesia Secara Online Download Maupun Streaming Anime Sub Indo Terbaru Dan kualitas Lengkap Yang Update Setiap Hari Gratis.",
+    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Kuronime.cs3",
+    "name": "Kuronime"
+  }
 ]
