@@ -21,10 +21,10 @@
     "name": "Animeindo"
   },
   {
-    "fileHash": "sha256-12c90ee44e0051968261f17a7639df569f21908f8fdc0d353b9462923a17fbf1",
+    "fileHash": "sha256-79d35dab3f726da866e998a4afeda56591e66edad6f7bfea080c46df6159081a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-    "fileSize": 100088,
+    "fileSize": 100120,
     "status": 3,
     "language": "id",
     "authors": [
