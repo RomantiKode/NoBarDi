@@ -1,44 +1,44 @@
 [
-  {
-    "iconUrl": "https://assets.assetsy.de/favicon.ico",
-    "fileHash": "sha256-67a4e040d964c2b5338110c1feebc9cfc59721168d0daa33507159e7de67f045",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-    "fileSize": 235985,
-    "status": 3,
-    "language": "id",
-    "authors": [
-      "Agoose.RomantiKode"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 21,
-    "internalName": "Layarkaca21",
-    "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
-    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Layarkaca21.cs3",
-    "name": "Layarkaca21"
-  },
-  {
-    "iconUrl": "https://x6.sokuja.uk/favicon.ico",
-    "fileHash": "sha256-64ac66f9499ab15c5918de273d20ef64dea4850976e3ed314a6d1f1a2c608cb0",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/RomantiKode/NoBarDi",
-    "fileSize": 51503,
-    "status": 3,
-    "language": "id",
-    "authors": [
-      "Agoose.RomantiKode"
-    ],
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie"
-    ],
-    "version": 2,
-    "internalName": "Sokuja",
-    "description": "Sokuja - streaming anime subtitle Indonesia.",
-    "url": "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Sokuja.cs3",
-    "name": "Sokuja"
-  }
+    {
+        "iconUrl":  "https://assets.assetsy.de/favicon.ico",
+        "fileHash":  "sha256-67a4e040d964c2b5338110c1feebc9cfc59721168d0daa33507159e7de67f045",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/RomantiKode/NoBarDi",
+        "fileSize":  235985,
+        "status":  3,
+        "language":  "id",
+        "authors":  [
+                        "Agoose.RomantiKode"
+                    ],
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "version":  21,
+        "internalName":  "Layarkaca21",
+        "description":  "Nonton dan download film \u0026 series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
+        "url":  "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Layarkaca21.cs3",
+        "name":  "Layarkaca21"
+    },
+    {
+        "iconUrl":  "https://x6.sokuja.uk/favicon.ico",
+        "fileHash":  "sha256-ded59fe1347d734ff9927e2db9eca0fba936bb96c8caf7b9ef8e09f72cf641f7",
+        "apiVersion":  1,
+        "repositoryUrl":  "https://github.com/RomantiKode/NoBarDi",
+        "fileSize":  51476,
+        "status":  3,
+        "language":  "id",
+        "authors":  [
+                        "Agoose.RomantiKode"
+                    ],
+        "tvTypes":  [
+                        "Anime",
+                        "AnimeMovie"
+                    ],
+        "version":  2,
+        "internalName":  "Sokuja",
+        "description":  "Sokuja - streaming anime subtitle Indonesia.",
+        "url":  "https://raw.githubusercontent.com/RomantiKode/NoBarDi/builds/Sokuja.cs3",
+        "name":  "Sokuja"
+    }
 ]
