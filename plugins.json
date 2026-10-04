@@ -50,15 +50,11 @@
         "status":  3,
         "language":  "id",
         "authors":  [
-                        [
-                            "Agoose.RomantiKode"
-                        ]
+                        "Agoose.RomantiKode"
                     ],
         "tvTypes":  [
-                        [
-                            "Anime",
-                            "AnimeMovie"
-                        ]
+                        "Anime",
+                        "AnimeMovie"
                     ],
         "version":  1,
         "internalName":  "Donghive",
